@@ -1,5 +1,7 @@
 library(plyr)
 
+#Project: https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings
+
 #Set directory
 getwd()
 setwd("/Users/cornelisvletter/desktop/progs/kaggle/airbnb")
